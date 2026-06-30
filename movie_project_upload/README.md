@@ -68,5 +68,7 @@ Generative AI was used for support during coding, in accordance with the
 project rules. The report was written without generative AI. The full
 conversation(s) that produced code, including all prompts, are linked below:
 
-- <PASTE THE LINK TO YOUR AI CONVERSATION HERE>
+- https://claude.ai/share/d585ea3c-d62c-4185-a420-d0fba841c309
+- https://claude.ai/share/a80ca4c6-6ea2-4c87-9bff-a5f22df394c1
+- https://claude.ai/share/8d43d482-878b-4974-ace1-5c018c2b6efe
 
