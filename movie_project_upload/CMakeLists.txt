@@ -33,3 +33,5 @@ add_executable(movie_ds_project
         src/SlowSort.h
         src/BenchmarkRestrictions.h
 )
+
+target_link_options(movie_ds_project PRIVATE -static -static-libgcc -static-libstdc++)
